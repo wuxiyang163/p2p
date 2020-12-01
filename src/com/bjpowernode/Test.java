@@ -15,6 +15,12 @@ public class Test {
         System.out.println("开始了");
         i =3;
         System.out.println(i);
+
+ System.out.println("开始了");
+        i =3;
+        System.out.println(i);
+
+
     }
 }
   
