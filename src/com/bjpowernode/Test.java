@@ -7,6 +7,8 @@ public class Test {
         int j =3;
         String text = "老铁，你好了没？";
         System.out.println("淦");
+        i =3;
+        System.out.println(i);
     }
 }
   
