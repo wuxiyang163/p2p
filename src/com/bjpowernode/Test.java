@@ -11,6 +11,8 @@ public class Test {
         System.out.println("淦");
         System.out.println("淦");
         System.out.println("淦");
+
+        System.out.println("开始了");
         i =3;
         System.out.println(i);
     }
