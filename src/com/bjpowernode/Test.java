@@ -16,7 +16,7 @@ public class Test {
         i =3;
         System.out.println(i);
 
- System.out.println("开始了");
+        System.out.println("行不行");
         i =3;
         System.out.println(i);
 
